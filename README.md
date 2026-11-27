@@ -5,18 +5,13 @@
   </picture>
 </p>
 
-# reG2
-
-Play GTA2 natively on Windows, Linux and macOS: the original game, rebuilt from its decompiled source,
-with optional extras like smoother frame rates, better lighting and twin-stick controls.
+# reG2 Android
+GTA2 running natively on Android.
 
 > [!WARNING]
 > **reG2 is a beta.** Expect bugs, and please report them. No multiplayer for now.
 
-reG2 is a fork of [gta2_re](https://github.com/CriminalRETeam/gta2_re) by the CriminalRETeam, and all the
-credit for the game itself goes to them: they rebuilt GTA2 (PC, version 10.5) function by function, in
-C++ that compiles back to the original machine code. reG2 just adds what you need to run it today (SDL3,
-OpenGL, sound, gamepads) and some extras on top.
+It's a port of [reG2](https://github.com/reG2-project/reG2), itself a fork of [gta2_re](https://github.com/CriminalRETeam/gta2_re) by the CriminalRETeam. The credit for the game itself goes to them: they rebuilt GTA2 (PC, version 10.5) function by function, in C++ that compiles back to the original machine code. This port adds the Android side: rendering, sound and the touch controls.
 
 You need your own copy of GTA2 for PC. The free 2004 release works.
 
